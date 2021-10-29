@@ -58,7 +58,7 @@ class UserLogin
         $checking = $main->checkLogin($table,$parameter);
         if($checking==true)
         {
-            $main->insertLogin($email);
+            $main->insertLogin($table,$email);
             echo"Logged In successfully...";
         }
         else
