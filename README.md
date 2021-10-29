@@ -25,13 +25,13 @@ Install Postman.
 
 Open XAMPP Control panal and start [apache] and [mysql] .
 
-Download project from github(https://github.com/MalikAbdullah43/EmpManagement.git).
+Download project from github(https://github.com/uzairmin/emailservice.git).
 
 OR follow gitbash commands
 ```bash
 i>cd C:\\xampp\htdocs\
 
-ii>git clone https://github.com/MalikAbdullah43/EmpManagement.git
+ii>git clone https://github.com/uzairmin/emailservice.git
 ```
 extract files in C:\xampp\htdocs.
 
